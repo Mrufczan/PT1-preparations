@@ -28,4 +28,4 @@ Privilege escalation is a technique where an attacker or user gains higher-level
 
 ---
 
-In this study I will use the **[LINUX](linux.md)** and **[WINDOWS]()** Privilege Escalation rooms available on TryHackMe.com
+In this study I will use the **[LINUX](linux.md)** and **[WINDOWS](windows.md)** Privilege Escalation rooms available on TryHackMe.com
